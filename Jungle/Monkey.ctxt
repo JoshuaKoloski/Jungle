@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ removeBanana()
+comment1.text=\r\n\ Removes\ a\ banana\ if\ the\ monkey\ is\ touching\ it.\ Calls\ methods\ to\ change\ the\ score\ and\ \r\n\ make\ the\ monkey's\ white\ frame\ trandparent.\ \r\n
+comment2.params=
+comment2.target=void\ moveAround()
+comment2.text=\r\n\ Moves\ monkey\ in\ response\ to\ the\ arrows.\ Left\ and\ right\ rotate\ the\ monkey\ accordingly\ while\ up\ \r\n\ and\ down\ actually\ move\ it\ (up\ moves\ the\ monkey\ in\ the\ direction\ it\ is\ facing\ and\ down\ moves\ the\ \r\n\ monkey\ opposite\ the\ direction\ it\ is\ facing).\r\n
+comment3.params=
+comment3.target=void\ stopGame()
+comment3.text=\r\n\ Stops\ the\ game\ if\ no\ monkeys\ remain\ in\ play\ and\ calls\ a\ method\ to\ change\ the\ score.\ \r\n
+comment4.params=
+comment4.target=void\ turnTransparent()
+comment4.text=\r\n\ Makes\ the\ monkey's\ white\ frame\ transparent.\r\n
+comment5.params=x
+comment5.target=void\ changeScore(int)
+comment5.text=\r\n\ Adds\ two\ to\ the\ score\ if\ the\ monkey\ eats\ a\ banana\ (except\ for\ the\ last\ banana).\ \r\n\ Adds\ five\ to\ the\ score\ if\ no\ bananas\ remain\ in\ play.\ \r\n
+numComments=6

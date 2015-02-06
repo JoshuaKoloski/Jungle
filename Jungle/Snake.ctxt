@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ moveAround()
+comment1.text=\r\n\ moveAround-\ moves\ the\ snake\ in\ random\ patterns.\r\n
+comment2.params=
+comment2.target=void\ multiplyBananas()
+comment2.text=\r\n\ Multiplies\ the\ amount\ of\ bananas\ on\ screen\ when\ the\ snake\ bites\ the\ monkey.\ The\ amount\ of\ bananas\ \r\n\ added\ to\ the\ game\ depends\ on\ how\ long\ the\ snake\ bites\ the\ monkey\ for.\ At\ most,\ three\ bananas\ will\ \r\n\ be\ added.\ \r\n
+comment3.params=
+comment3.target=void\ turnTransparent()
+comment3.text=\r\n\ Turns\ the\ actor's\ white\ fame\ transparent.\r\n
+comment4.params=
+comment4.target=void\ lowerScore()
+comment4.text=\r\n\ Lower's\ the\ score\ by\ 2.\r\n
+numComments=5

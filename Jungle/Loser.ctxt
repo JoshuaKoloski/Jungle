@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Loser()
+comment1.params=
+comment1.target=void\ displayScore()
+comment1.text=\r\n\ Displays\ the\ score\ on\ the\ world.\r\n
+comment2.params=text\ textSize\ x\ y
+comment2.target=void\ addText(java.lang.String,\ int,\ int,\ int)
+comment2.text=\r\n\ Sets\ the\ size\ and\ color\ of\ the\ text.\r\n
+comment3.params=
+comment3.target=void\ addBananas()
+comment3.text=\r\n\ Inserts\ a\ banana\ in\ the\ world.\r\n
+numComments=4

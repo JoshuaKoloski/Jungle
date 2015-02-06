@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ moveAround()
+comment1.text=\r\n\ Moves\ the\ ape\ once\ the\ ape\ is\ tagged\ by\ the\ monkey.\ Moves\ the\ ape\ randomly.\r\n
+comment2.params=
+comment2.target=void\ removeBanana()
+comment2.text=\r\nRemoves\ the\ banana\ when\ the\ ape\ touches\ it.\ Calls\ the\ method\ to\ change\ the\ score.\ \r\n
+comment3.params=
+comment3.target=void\ removeSnake()
+comment3.text=\r\n\ Removes\ the\ snake\ when\ the\ ape\ touches\ it.\ \r\n
+comment4.params=
+comment4.target=void\ turnTransparent()
+comment4.text=\r\n\ Turns\ the\ ape's\ white\ frame\ transparent.\r\n
+comment5.params=
+comment5.target=void\ changeScore()
+comment5.text=\r\n\ Adds\ one\ to\ the\ score.\r\n
+numComments=6
